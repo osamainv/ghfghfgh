@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hopetogeti/static/css/main.3eb40982.chunk.css",
+    "main.js": "/hopetogeti/static/js/main.fdbc54f8.chunk.js",
+    "main.js.map": "/hopetogeti/static/js/main.fdbc54f8.chunk.js.map",
+    "runtime-main.js": "/hopetogeti/static/js/runtime-main.3d2b6f77.js",
+    "runtime-main.js.map": "/hopetogeti/static/js/runtime-main.3d2b6f77.js.map",
+    "static/css/2.f26e749f.chunk.css": "/hopetogeti/static/css/2.f26e749f.chunk.css",
+    "static/js/2.3f7bd51d.chunk.js": "/hopetogeti/static/js/2.3f7bd51d.chunk.js",
+    "static/js/2.3f7bd51d.chunk.js.map": "/hopetogeti/static/js/2.3f7bd51d.chunk.js.map",
+    "index.html": "/hopetogeti/index.html",
+    "static/css/2.f26e749f.chunk.css.map": "/hopetogeti/static/css/2.f26e749f.chunk.css.map",
+    "static/css/main.3eb40982.chunk.css.map": "/hopetogeti/static/css/main.3eb40982.chunk.css.map",
+    "static/js/2.3f7bd51d.chunk.js.LICENSE.txt": "/hopetogeti/static/js/2.3f7bd51d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d2b6f77.js",
+    "static/css/2.f26e749f.chunk.css",
+    "static/js/2.3f7bd51d.chunk.js",
+    "static/css/main.3eb40982.chunk.css",
+    "static/js/main.fdbc54f8.chunk.js"
+  ]
+}
